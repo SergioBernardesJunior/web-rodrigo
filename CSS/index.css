@@ -1,0 +1,25 @@
+.header {
+  height: 50px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-bottom: 1px solid #ccc;
+  background: #ECECEC;
+  z-index: 2;
+  float:left;
+}
+
+.align-center {
+  margin-top: 5px;
+}
+
+.background-tst {
+  background-color: #FC3A04;
+}
+
+.menu{
+position:relative;
+float:left;
+padding-left: 10px;
+}
