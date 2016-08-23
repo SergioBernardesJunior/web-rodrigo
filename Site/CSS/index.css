@@ -11,5 +11,10 @@
 .menu-center {
   position: relative;
   top: 50%;
-  transform: translateY(-50%); 
+  transform: translateY(-50%);
+}
+
+.fonte-padrao {
+  font-family: "Letter Gothic Std", LetterGothicStd-Bold;
+  font-size: 28px;
 }
