@@ -1,18 +1,17 @@
-body  {
+/*body  {
 	margin: 0;
 	padding: 0;
 	background: #ddd;
-	}
-#container  {
+	}*/
+/*#container  {
 	margin: 1em auto;
 	width: 650px;
 	background: #fff;
-	}
+	}*/
 #header {background: #CF3;}
-.menu {
-  background: #9F3;
-}
-#menu  {
+
+
+/*#menu  {
 	float: right;
 	width: 165px;
 	background: #6F9;
@@ -26,4 +25,4 @@ body  {
 #footer  {
 	clear: both;
 	background: #FF9;
-	}
+	}*/

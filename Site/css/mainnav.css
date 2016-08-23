@@ -1,0 +1,38 @@
+.mainnav-base {
+  background-color: rgba(45, 175, 0, 0.5);
+  width: 100%;
+}
+
+.mainnav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.mainnav-itens {
+  display: inline-block;
+}
+
+#mainnav ul li {
+  list-style: none;
+  padding: 0 0 0 10px;
+}
+
+#mainnav ul li {
+  display: inline;
+}
+
+#mainnav ul li {
+  width: 75px;
+  margin-left: 5px;
+}
+
+#mainnav ul li:hover{
+  font-size: 17px;
+  text-shadow: 0.5px 0.5px rgba(20, 20, 20, 0.3);
+}
+#mainnav ul li:hover{
+  -webkit-transition: 0.2s all ease;
+  -moz-transition: 0.2s all ease;
+  -o-transition: 0.2s all ease;
+}
