@@ -1,0 +1,19 @@
+.header {
+  height: 50px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-bottom: 1px solid #ccc;
+  background: #ECECEC;
+  z-index: 2;
+  float:left;
+}
+
+.background-orange {
+  background-color: #FC3A04;
+}
+
+.background-green-opac {
+  background-color: rgba(55, 112, 0, 0.5);;
+}
