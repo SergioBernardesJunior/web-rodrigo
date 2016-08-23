@@ -6,6 +6,8 @@
 }
 
 .coluna-2 {
+  top: 80px;
+  position: relative;
   display: inline;
   width: 50%;
   float: left;
