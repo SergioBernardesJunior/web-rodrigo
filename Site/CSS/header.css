@@ -4,7 +4,7 @@
   right: 0;
   padding: 10px 10px;
   background: #ECECEC;
-  position: fixed;
+  position: absolute;;
   display: inline;
   border-radius: 1px;
 }
