@@ -1,0 +1,7 @@
+.align-img-center {
+	height: 210px;
+	margin-left:-300px;
+	left: 50%;
+	border:1px solid;
+	position: relative;
+}
