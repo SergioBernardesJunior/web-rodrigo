@@ -2,18 +2,6 @@
   margin-top: 5px;
 }
 
-.menu{
-  position:relative;
-  float:left;
-  padding-left: 10px;
-}
-
-.menu-center {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
 .fonte-padrao {
   font-family: "Letter Gothic Std", LetterGothicStd-Bold;
   font-size: 28px;

@@ -1,0 +1,38 @@
+.menu{
+  position:relative;
+  float:left;
+  padding-left: 10px;
+}
+
+.menu-center {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.expand {
+  list-style: none;
+  padding: 0 0 0 10px;
+}
+
+.expand {
+  display: inline;
+}
+
+.expand {
+  width: 75px;
+  margin-left: 5px;
+}
+
+.expand:hover{
+  font-size: 36px;
+  text-shadow: 1px 1px rgba(20, 20, 20, 0.3);
+}
+.expand:hover{
+  /*-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -o-transform: scale(1.1);*/
+  -webkit-transition: 0.5s all ease;
+  -moz-transition: 0.5s all ease;
+  -o-transition: 0.5s all ease;
+}
