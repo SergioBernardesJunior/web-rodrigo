@@ -1,17 +1,8 @@
 .header {
-  height: 50px;
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  border-bottom: 1px solid #ccc;
+  width: 100%;
+  padding: 10px 0;
   background: #ECECEC;
-  z-index: 2;
-  float:left;
-}
-
-.background-orange {
-  background-color: #FC3A04;
+  /*float:left;*/
 }
 
 .background-green-opac {
